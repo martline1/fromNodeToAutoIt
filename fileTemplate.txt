@@ -1,0 +1,3 @@
+#include <MsgBoxConstants.au3>
+
+MsgBox($MB_ICONINFORMATION, "<<<NODE_title>>>", "<<<NODE_body>>>")
